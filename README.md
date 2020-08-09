@@ -1,3 +1,5 @@
-# example
+# Platformer-Game
+# COMP 313 Assignment 1
+# Made by Biru Lin
+# Game Name: Kirby Jump
 
-Developed with Unreal Engine 4
