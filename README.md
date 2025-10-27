@@ -2,7 +2,6 @@
 
 A simple 2D platformer game built for learning and fun. Navigate your character through platforms, avoid obstacles, and reach the goal!  
 
-🎮 Watch gameplay here: [YouTube Demo]([https://www.youtube.com/watch?v=YOUR_VIDEO_LINK_HERE](https://youtu.be/Do5XJzvlWz8))
 
 ## Table of Contents
 
@@ -31,7 +30,8 @@ A simple 2D platformer game built for learning and fun. Navigate your character 
 - Avoid obstacles and enemies.
 - Collect items or points (if implemented).
 
+🎮 Watch gameplay here: [YouTube Demo](https://youtu.be/Do5XJzvlWz8)
+
 ## Technologies
 
-- Game Engine: []
-- 
+- Game Engine: [Unreal Engine]
